@@ -1,0 +1,8 @@
+.filters {
+    padding: 5px;
+    background-color: rgb(230, 230, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+}
